@@ -6,7 +6,7 @@
 @import url("styles/rodapé.css");
 
 :root {
-    --cor-de-fundo: #010004;
+    --cor-de-fundo: #FFFFF0	;
     --branco: #ffffff;
     --laranja: #00f703;
     --azul-degrade: linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%);
